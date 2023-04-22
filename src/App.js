@@ -3,10 +3,6 @@ import "./Weather.css";
 import axios from "axios";
 
 export default function App() {
-  function displayForecast(response) {
-    let forecast = response.data.daily;
-    let forecastElement = document.querySelector("#weather-forecast");
-  }
   return (
     <div className="App">
       <div className="container">
