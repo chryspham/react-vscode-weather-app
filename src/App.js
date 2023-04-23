@@ -1,6 +1,5 @@
 import "./index.css";
 import "./Weather.css";
-import axios from "axios";
 
 export default function App() {
   return (
