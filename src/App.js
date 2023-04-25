@@ -65,7 +65,7 @@ export default function App() {
       </div>
 
       <div className="mylink">
-        <a href="https://github.com/chryspham/vanilla-weather-app">
+        <a href="https://stalwart-monstera-ce87e6.netlify.app/">
           Open-source code
         </a>
         by Chrys Pham
